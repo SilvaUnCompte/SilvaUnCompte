@@ -3,10 +3,12 @@
 > When you write code, always do so with the mindset that the person who will have to modify it is a psychopath who knows exactly where you live.
 - John F. Woods
 
+<!-- 
 <h3>ABOUT ME</h3>
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-<!--   
+  
 <h2 align="left">
 
   <p>- Rule 86: If it exists, you can play <a href="https://www.urbandictionary.com/define.php?term=Bad%20Apple%21%21" target="_blank">Bad Apple</a> on it.</p>
